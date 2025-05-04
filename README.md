@@ -12,7 +12,7 @@
        (@             `--------`                             │  ⟡ Tools:       Selenium                      │
                                                              │   Connect With Me:                            │
 █▓▒░ adhavan@dev ░▒▓█                                        │  ⟡ Portfolio:  sevdev.vercel.app              │
-~/code $ ./build_future                                      │  ⟡ LinkedIn:   linkedin.com/in/adhavan10      │
+~/code $ ./build_future                                      │  ⟡ LinkedIn:(https://www.linkedin.com/in/moulee25/)      │
                                                              │  ⟡ GitHub:     github.com/adhavan13           │
 /* Life in C++ */                                            │  ⟡ LeetCode:   leetcode.com/u/adhavankannan10 │
 #include <future>                                            │  ⟡ Email:      adhavan13@gmail.com            │

@@ -14,3 +14,6 @@
                                                              └───────────────────────────────────────────────┘
 
 ```
+- 💼 LinkedIn: [Adhavan](https://www.linkedin.com/in/moulee25)  
+- 💻 LeetCode: [adhavankannan10](https://leetcode.com/u/adhavankannan10)  
+- 👾 Portfolio: [sevdev](https://leetcode.com/u/adhavankannan10)

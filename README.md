@@ -10,22 +10,32 @@
 (_)@8@8{}<___________|-\IIIIII/-|___________________________>  ⟡ GCP:        Cloud run,Storage buckets,     
         )_/          \          /                                            Bigquery                       
        (@             `--------`                               ⟡ Tools:      Selenium                       
-                                                               Connect With Me:                             
-█▓▒░ adhavan@dev ░▒▓█                                          ⟡ Portfolio:  sevdev.vercel.app              
-~/code $ ./build_future                                        ⟡ LinkedIn:   [LinkedIn](https://www.linkedin.com/in/moulee25/)                   
-                                                               ⟡ GitHub:     github.com/adhavan13           
-/* Life in C++ */                                              ⟡ LeetCode:   leetcode.com/u/adhavankannan10 
-#include <future>                                              ⟡ Email:      adhavankannan10@gmail.com      
+                                                                                    
+█▓▒░ adhavan@dev ░▒▓█                                          Education:            
+~/code $ ./build_future                                        ⟡ Computer Science and Engineering    
+                                                                       
+/* Life in C++ */                                             ───────────────────────────────────────────────
+#include <future>                                                  
 #include <dreams>                                                                                           
-                                                               Education:                                   
-int main() {                                                   ⟡ Computer Science and Engineering           
+                                                                                                  
+int main() {                                                             
   auto career = std::async(                                                                                 
-    std::launch::eager, []{                                  ───────────────────────────────────────────────
+    std::launch::eager, []{                                  
       return buildSomethingAmazing();
     }
   );
 
   return career.get();
 }
+
 ```
+
+**Connect With Me:**
+
+  
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/moulee25](https://www.linkedin.com/in/moulee25)  
+- 🐙 **GitHub:** [https://github.com/adhavan13](https://github.com/adhavan13)  
+- 💻 **LeetCode:** [https://leetcode.com/u/adhavankannan10](https://leetcode.com/u/adhavankannan10)  
+- 📧 **Email:** adhavankannan10@gmail.com
+
 

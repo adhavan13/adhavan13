@@ -9,13 +9,13 @@
          )\_________\__|IIIIII|__/__________________________ │  ⟡ DevOps:     Docker, Git                    │
 (_)@8@8{}<___________|-\IIIIII/-|___________________________>│  ⟡ GCP:        Cloud run,Storage buckets,     │
         )_/          \          /                            │                Bigquery                       │
-       (@             `--------`                             │  ⟡ Tools:       Selenium                      │
-                                                             │   Connect With Me:                            │
+       (@             `--------`                             │  ⟡ Tools:      Selenium                       │
+                                                             │  Connect With Me:                             │
 █▓▒░ adhavan@dev ░▒▓█                                        │  ⟡ Portfolio:  sevdev.vercel.app              │
-~/code $ ./build_future                                      │  ⟡ [LinkedIn](https://www.linkedin.com/in/moulee25/)      │
+~/code $ ./build_future                                      │  ⟡ LinkedIn:   adhavan10                      │
                                                              │  ⟡ GitHub:     github.com/adhavan13           │
 /* Life in C++ */                                            │  ⟡ LeetCode:   leetcode.com/u/adhavankannan10 │
-#include <future>                                            │  ⟡ Email:      adhavan13@gmail.com            │
+#include <future>                                            │  ⟡ Email:      adhavankannan10@gmail.com      │
 #include <dreams>                                            │                                               │
                                                              │  Education:                                   │
 int main() {                                                 │  ⟡ Computer Science and Engineering           │

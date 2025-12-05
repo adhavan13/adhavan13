@@ -1,7 +1,7 @@
 ```
                      .-"      "-.                            ┌──────────────────TECH STACK───────────────────┐ 
                     /            \                           │                                               │ 
-                   |              |                          │  Tech Stack:                                  │                       
+                   |              |                          │  Tech Stack:                                  │                        
                    |,  .-.  .-.  ,|                          │  ⟡ Languages:  C, C++, Python, JavaScript     │ 
                    | )(__/  \__)( |                          │  ⟡ Frontend:   React                          │     
                    |/     /\     \|                          │  ⟡ Backend:    Node.js, Express.js            │        
